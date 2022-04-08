@@ -262,7 +262,7 @@ And type in the following
 [Desktop Entry]
 Name=Toggle Virtual Keyboard
 Comment=Toggle Virtual Keyboard
-Exec=/usr/bin/toggle-keyboard.sh
+Exec=/home/pi/.config/my-scripts/toggle-keyboard.sh
 Type=Application
 Icon=matchbox-keyboard.png
 Categories=Panel;Utility;MB
