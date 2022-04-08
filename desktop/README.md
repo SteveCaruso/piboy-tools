@@ -9,6 +9,7 @@ This article assumes you're using the following:
 - A Raspberry PI 4
 - The official PiBoy disk image (v1.0.7)
 - Firmware version 1.0.5
+- That your username for your admin account is "pi" (otherwise, you'll need to change wherever you see "pi" to your username).
 
 ## Step 1: Make Sure You're Connected to the Internet
 
